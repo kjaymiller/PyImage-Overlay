@@ -10,8 +10,6 @@ def overlay_text(
     ) -> None:
     """Add text over an image"""
 
-    # TODO: #12 Make things modular
-
     # Wrap the text
     wrap_cap_2xl = 305
     wrap_cap_xl = 225
